@@ -74,7 +74,7 @@
 
 ## ⚙ Coding Problems
 
-<p align = "center"><img src="https://leetcard.jacoblin.cool/bikashkumar04?ext=contest&theme=dark"/></p>
+<p align = "center"><img src="https://leetcard.jacoblin.cool/Bikash_kumar04?ext=contest&theme=dark"/></p>
 </p>
 
 
