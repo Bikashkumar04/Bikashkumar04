@@ -6,7 +6,7 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-<h1 align="center"> 𝐻𝑒𝓁𝓁𝑜 𝒢𝓊𝓎𝓈!🤠, 𝒞𝒽𝒾𝓇𝒶𝑔 𝓉𝒽𝒾𝓈 𝓈𝒾𝒹𝑒 </h1>
+<h1 align="center"> 𝐻𝑒𝓁𝓁𝑜 𝒢𝓊𝓎𝓈!🤠, 𝐵𝒾𝓀𝒶𝓈𝒽 𝓀𝓊𝓂𝒶𝓇 𝓉𝒽𝒾𝓈 𝓈𝒾𝒹𝑒 </h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -23,7 +23,7 @@
 
 
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rathichirag1512&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Bikashkumar04&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 <h3 align="center">
@@ -48,7 +48,7 @@
 
 - 🥅 2025 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 You can reach me at **rathichirag1525@gmail.com**🎃
+- 📫 You can reach me at **🎃bikashkumar15042003@gmail.com**
 
 
 
@@ -60,12 +60,12 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-rathichirag1512&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Bikashkumar04&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rathichirag1512&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikashkumar04&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
 <h3 align="center">
@@ -74,7 +74,7 @@
 
 ## ⚙ Coding Problems
 
-<p align = "center"><img src="https://leetcard.jacoblin.cool/rathichirag1525?ext=contest&theme=dark"/></p>
+<p align = "center"><img src="https://leetcard.jacoblin.cool/bikashkumar04?ext=contest&theme=dark"/></p>
 </p>
 
 
@@ -90,23 +90,23 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rathichirag1512&show_icons=true&theme=radical" alt="Chirag GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Bikashkumar04&show_icons=true&theme=radical" alt="Chirag GitHub Stats">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathichirag1512&langs_count=8&theme=radical&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikashkumar04&langs_count=8&theme=radical&layout=compact" alt="Top Languages">
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rathichirag1512&theme=2077" alt="Repos per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikashkumar04&theme=2077" alt="Repos per Language">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rathichirag1512&theme=2077" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikashkumar04&theme=2077" alt="Most Commit Language">
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rathichirag1512&theme=radical&utcOffset=8" alt="Productive Time">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bikashkumar04&theme=radical&utcOffset=8" alt="Productive Time">
       </td>
     </tr>
   </table>
@@ -122,7 +122,7 @@
 </h3>
 
 ## 📈 GitHub Contribution Graph
-[![Shrey Srivastava github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rathichirag1512&bg_color=green&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/rathichirag1512/github-readme-activity-graph)
+[![Bikash Kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bikashkumar04&bg_color=green&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/Bikashkumar04/github-readme-activity-graph)
 
 <hr>
 
@@ -135,7 +135,7 @@
 <hr>
  
 <h3 align="center">
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=rathichirag1512&theme=onedark&column=11">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=Bikashkumar04&theme=onedark&column=11">
 </h3>
 
 <hr>
@@ -165,8 +165,8 @@
 <hr>
 
 <p align="center" align='right'>
-<a target="_blank"href="https://in.linkedin.com/in/chirag-rathi1525"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="mailto: rathichirag1525@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://in.linkedin.com/in/bikashkumar04"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="mailto: bikashkumar15042003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/rathichirag15/profilecard/?igsh=bmJhMXg1OHZrZHBx"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
  
