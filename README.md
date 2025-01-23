@@ -54,16 +54,6 @@
 
 <br>
 
-<hr>
-## ⚙ Coding Problems
-
-<p align = "center"><img src="https://leetcard.jacoblin.cool/Bikash_kumar04?ext=contest&theme=dark"/></p>
-</p>
-
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <hr>
 
@@ -78,6 +68,16 @@
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikashkumar04&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+<hr>
+## ⚙ Coding Problems
+
+<p align = "center"><img src="https://leetcard.jacoblin.cool/Bikash_kumar04?ext=contest&theme=dark"/></p>
+</p>
+
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
