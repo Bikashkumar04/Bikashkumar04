@@ -55,6 +55,17 @@
 <br>
 
 <hr>
+## ⚙ Coding Problems
+
+<p align = "center"><img src="https://leetcard.jacoblin.cool/Bikash_kumar04?ext=contest&theme=dark"/></p>
+</p>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<hr>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
@@ -72,15 +83,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## ⚙ Coding Problems
 
-<p align = "center"><img src="https://leetcard.jacoblin.cool/Bikash_kumar04?ext=contest&theme=dark"/></p>
-</p>
-
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## 📊 GitHub Activity
 
