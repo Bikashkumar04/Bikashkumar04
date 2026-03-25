@@ -14,42 +14,34 @@
 
 **Languages**
 
-* Java
-* JavaScript
-* Python
+* Java * JavaScript * Python
 
 **Backend**
 
-* Node.js
-* Express.js
-* Spring Boot
+* Node.js * Express.js * Spring Boot
 
 **Frontend**
 
-* React
-* Next.js
-* HTML / CSS / Tailwind
+* React * Next.js * HTML / CSS / Tailwind
 
 **Database**
 
-* MongoDB
-* PostgreSQL
+* MongoDB * PostgreSQL * Mysql
 
 **Tools & Technologies**
 
-* Git & GitHub
-* Docker
+* Git & GitHub * Docker
 * AWS (IAM, EC2, Lambda, VPC, API GATEWAY)
 * Redis
 * REST APIs
 
 ## 📊 Coding Profiles
 
-* 💻 LeetCode: [https://leetcode.com/](https://leetcode.com/u/Bikash_kumar04/)
+* 💻 LeetCode: https://leetcode.com/u/Bikash_kumar04/
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bikashkumar04/)
+* LinkedIn: https://www.linkedin.com/in/bikashkumar04/
 * Email: bikashkumar00004@gmail.com
 
 ---
